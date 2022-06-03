@@ -1,4 +1,4 @@
-PAVID-CV
+PAVID-CVs
 
 Persian Audio-Visual Database
 
